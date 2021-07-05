@@ -8,5 +8,5 @@ visualizing some business models in CVCA like diagrams.
 ### 2020S
 
 #### Legionfarm
-![Legionfarm BM](http://www.plantuml.com/plantuml/proxy?src=https://gist.githubusercontent.com/pekopeko1/11026c6c00797c3b5369253478f4af75/raw/b76419a8d0fa06b6fa398db56af681621a0cb183/legionfarm_bm.puml)
+![Legionfarm BM](https://kroki.io/plantuml/svg/eNpNjjFPwzAQhXf_ilNUJDKkpEhlQKRLJLoUUSmwdTnMkVit7ejsgPrve64pZfT73n1-YW_ciIwWrHdeD-wtQeSJVPgjjG4faIT7-l_4ORpYLGulUEfPULRTiHLLBWCA9r17U0w6ousPBMWGeuPdF7I9483zi5oCaQzCWo96oJDvXrsr2LKHNYoys-26U8kLTbNKBniEZrZzt_hNMFs83A2lSmmiornQZX1TqvSuqssVy5gQiZUYz3Guf5CW_fmLp6r6TXVaZ1wvqvGAR_gxcYBeVpW5OZ-v0jJpWqHZcQLbBGgR)
 ### 2020W
