@@ -1,5 +1,5 @@
 # bizmodels
-visualizing some business models in CVCA like diagrams.
+visualizing some business models in CVCA-like diagrams.
 
 ## Y Combinator
 
